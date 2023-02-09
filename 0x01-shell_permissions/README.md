@@ -1,2 +1,2 @@
 #!/bin/bash
-what group
+new owner
