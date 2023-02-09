@@ -1,2 +1,2 @@
 #!/bin/bash
-i am betty
+i am bettyi am betty
